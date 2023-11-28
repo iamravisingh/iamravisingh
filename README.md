@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @iamravisingh
-- 👀 I’m interested in Javascript 
-- 🌱 I’m currently learning core concept of React/Typescript/Node
-- 💞️ I’m looking to collaborate on javascript based project
 - 📫 How to reach me 
    you can connect me on linkedIn https://www.linkedin.com/in/iamravisingh/
 
